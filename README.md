@@ -1,6 +1,9 @@
 # 파이썬 딥러닝 텐서플로 도서 
-> '파이썬 딥러닝 텐서플로' 도서 (정보문화사) 예제 코드입니다 	&#128079;	
-- 도서: [교보문고](http://www.kyobobook.co.kr/), [YES24](http://www.yes24.com/Main/default.aspx) (변경 예정)
+> '파이썬 딥러닝 텐서플로' 도서 (정보문화사) [교보문고](http://www.kyobobook.co.kr/), [YES24](http://www.yes24.com/Main/default.aspx) 예제 코드입니다 	&#128079;	
+ 
+[![Python](https://img.shields.io/badge/Python-3.6|3.7|3.8-blue)]()
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-2.4|2.5-orange)]()
+
 ---
 
 <img src="https://user-images.githubusercontent.com/25129278/123186299-ccda2080-d4d2-11eb-825e-bdebd1c380d7.jpeg" width="60%" title="텐서플로 도서" alt="RubberDuck"></img>
