@@ -67,3 +67,6 @@ pwd
 !git clone https://github.com/lovedlim/tensorflow.git
 ~~~
 
+## 추가 학습 자료
+- [머신러닝/딥러닝 입문자를 위해 정리한 학습 사이트](https://github.com/teddylee777/machine-learning)
+
