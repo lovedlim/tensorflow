@@ -37,11 +37,11 @@
   - 스크린 샷 첨부해주세요.
 
 ## 예제코드 바로 실행 :writing_hand:
+![Kapture 2021-06-26 at 14 50 41](https://user-images.githubusercontent.com/25129278/123503432-fbe8c180-d68d-11eb-8769-d6ad00b42bbc.gif)
+
 1. 학습할 주피터 노트북(ipynb) 선택
 2. "구글 코랩(Colab)에서 실행하기" 링크 클릭
 3. "Drive로 복사" 버튼 클릭
-
-*새창 열기 : "구글 코랩(Colab)에서 실행하기" 링크 (마우스 오른쪽으로 클릭) - 새 탭(창)에서 링크 열기*
 
 ## 예제코드 전체 복사(구글드라이브) &#128075;
 - 예제 코드는 코랩에서 [코랩 시작하기](https://colab.research.google.com/?hl=ko)
