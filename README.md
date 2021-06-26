@@ -1,9 +1,9 @@
 # 파이썬 딥러닝 텐서플로 도서 
 > '파이썬 딥러닝 텐서플로' 도서 (정보문화사) [교보문고](http://www.kyobobook.co.kr/), [YES24](http://www.yes24.com/Main/default.aspx) 예제 코드입니다 	&#128079;	
  
-[![Python](https://img.shields.io/badge/Python-3.6|3.7|3.8-blue)]()
-[![Tensorflow](https://img.shields.io/badge/TensorFlow-2.4|2.5-orange)]()
-
+[![Python](https://img.shields.io/badge/Python-3.6|3.7|3.8-blue)](https://github.com/lovedlim/tensorflow)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-2.4|2.5-orange)](https://github.com/lovedlim/tensorflow)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lovedlim/tensorflow)
 ---
 
 <img src="https://user-images.githubusercontent.com/25129278/123186299-ccda2080-d4d2-11eb-825e-bdebd1c380d7.jpeg" width="60%" title="텐서플로 도서" alt="RubberDuck"></img>
@@ -35,8 +35,15 @@
   - 독자를 위한 공간입니다. 질문 작성 시 *페이지 넘버*를 꼭 작성해주세요 :)
   - 구제적인 질문 내용을 작성해주세요.
   - 스크린 샷 첨부해주세요.
-  
-## 코랩 & 예제코드 복사 &#128075;
+
+## 예제코드 바로 실행 :writing_hand:
+1. 학습할 주피터 노트북(ipynb) 선택
+2. "구글 코랩(Colab)에서 실행하기" 링크 클릭
+3. "Drive로 복사" 버튼 클릭
+
+*새창 열기 : "구글 코랩(Colab)에서 실행하기" 링크 (마우스 오른쪽으로 클릭) - 새 탭(창)에서 링크 열기*
+
+## 예제코드 전체 복사(구글드라이브) &#128075;
 - 예제 코드는 코랩에서 [코랩 시작하기](https://colab.research.google.com/?hl=ko)
 - 예제 코드 구글드라이브에 복사 방법 with 코랩
 ~~~py
