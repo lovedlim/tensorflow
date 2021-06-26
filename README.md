@@ -26,7 +26,7 @@
 - PART6. 강화학습 (Reinforcement Learning)
 
 
-## 예제코드 바로 실행 :writing_hand:
+## 예제코드 바로 실행 :fire:
 ![Kapture 2021-06-26 at 14 50 41](https://user-images.githubusercontent.com/25129278/123503432-fbe8c180-d68d-11eb-8769-d6ad00b42bbc.gif)
 
 1. 학습할 주피터 노트북(ipynb) 선택
