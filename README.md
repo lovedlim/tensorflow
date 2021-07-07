@@ -1,5 +1,5 @@
 # 파이썬 딥러닝 텐서플로 도서 
-> '파이썬 딥러닝 텐서플로' 도서 ([정보문화사](http://www.infopub.co.kr/)) [교보문고](http://www.kyobobook.co.kr/), [YES24](http://www.yes24.com/Main/default.aspx) 예제 코드입니다 	&#128079;	
+> '파이썬 딥러닝 텐서플로' 도서 ([정보문화사](http://www.infopub.co.kr/)) [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956749099&orderClick=LAG&Kc=), [YES24](http://www.yes24.com/Product/Goods/102603640) 예제 코드입니다 	&#128079;	
  
 [![Python](https://img.shields.io/badge/Python-3.6|3.7|3.8-blue)](https://github.com/lovedlim/tensorflow)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-2.4|2.5-orange)](https://github.com/lovedlim/tensorflow)
