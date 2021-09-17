@@ -25,6 +25,8 @@
 - PART5. 순환 신경망 (RNN)
 - PART6. 강화학습 (Reinforcement Learning)
 
+## 질의응답
+- Issues (closed) : https://github.com/lovedlim/tensorflow/issues?q=is%3Aissue+is%3Aclosed
 
 ## 예제코드 바로 실행 :fire:
 ![Kapture 2021-06-26 at 14 50 41](https://user-images.githubusercontent.com/25129278/123503432-fbe8c180-d68d-11eb-8769-d6ad00b42bbc.gif)
